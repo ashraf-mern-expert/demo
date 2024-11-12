@@ -1,0 +1,18 @@
+
+.cardhead{
+     & img{
+        width: 60px;
+        height: 60px;
+        margin-top: 20px;
+        margin-left: 20px;
+        margin-bottom: 20px;
+     }
+     background-color: azure;
+}
+.divsp{
+    margin-top:200px;
+}
+.psb{
+    background-color: brown;
+    
+}
